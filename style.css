@@ -17,8 +17,8 @@ body {
 #header {
     height: 100vh;
     width: 100%;
-    background-image: url("../images/girlwithout-background.png");
-    background-size: 500px 48   0px;
+    background-image: url("images/girlwithout-background.png");
+    background-size: 500px 480px;
     background-repeat: no-repeat;
     background-position: right;
 }
