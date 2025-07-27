@@ -644,6 +644,7 @@ nav .fa-circle-xmark {
     .logo {
         width: 100px;
         height: auto;
+        left: 10px;
     }
 
     .container {
