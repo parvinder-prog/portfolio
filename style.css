@@ -605,11 +605,9 @@ nav .fa-circle-xmark {
         margin-top: -40px;
         display: block;
     }
-
 }
 
 @media (max-width: 367px) {
-
     html,
     body {
         overflow-x: hidden;
@@ -644,7 +642,8 @@ nav .fa-circle-xmark {
     .logo {
         width: 100px;
         height: auto;
-        margin-left: 0px;
+        position: absolute;
+        left: 5px;
     }
 
     .container {
@@ -663,7 +662,6 @@ nav .fa-circle-xmark {
     .btn {
         margin-left: 22vw;
     }
-
 }
 
 @media (max-width: 320px) {
